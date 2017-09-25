@@ -1,0 +1,10 @@
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\bin\Debug\RednibMemoryReader.exe.config
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\bin\Debug\RednibMemoryReader.exe
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\bin\Debug\RednibMemoryReader.pdb
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\obj\Debug\RednibMemoryReader.csprojResolveAssemblyReference.cache
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\obj\Debug\RednibMemoryReader.csproj.GenerateResource.Cache
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\obj\Debug\RednibMemoryReader.exe
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\obj\Debug\RednibMemoryReader.pdb
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\obj\Debug\RednibMemoryReader.Main.resources
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\bin\Debug\RednibMemory.dll
+C:\Users\Micha\Documents\SharpDevelop Projects\RednibMemoryReader\RednibMemoryReader\bin\Debug\RednibMemory.pdb
